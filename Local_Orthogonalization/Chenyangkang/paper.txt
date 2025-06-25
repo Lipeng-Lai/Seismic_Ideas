@@ -1,0 +1,1 @@
+Ground-roll noise attenuation using a simple and effective approach based on local bandlimited orthogonalization
