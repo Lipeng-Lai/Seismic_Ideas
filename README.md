@@ -14,8 +14,7 @@ Some ideas for seismic signal processing
 
 ## Local_Orthgonalization
 
-1. Chenyk
-2. xxxx
+1. [Ground-roll noise attenuation using a simple and effective approach based on local bandlimited orthogonalization](https://ahay.org/RSF/book/tccs/orthogroll/paper_html/)
 
 
 ## Hilbert transform
@@ -31,3 +30,5 @@ imag_part = np.imag(z) # hilbert domain data
 ```
 
 ## Plane-Wave Destruction
+
+1. [Plane-wave orthogonal polynomial transform for amplitude-preserving noise attenuation](https://ahay.org/RSF/book/zju/optnoise/paper_html/)
